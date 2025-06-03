@@ -102,4 +102,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0
   timeToTransform: 60
-  newEnragedZombiePrefab: {fileID: 3701059578767999716, guid: 545357ab93fd67d43bfb17a3205e83cf, type: 3}
+  newEnragedZombiePrefab: {fileID: 852509571580842556, guid: 53aeb04146a4f6f4280b8e0560b0593e, type: 3}
