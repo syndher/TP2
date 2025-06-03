@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 689d162813ac3a1489f5a8045f3c0c53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3138418451958766780
+    second: healthSpritesheet 1_0
+  - first:
+      213: 4161256882268214997
+    second: healthSpritesheet 1_1
+  - first:
+      213: -4408932331316868727
+    second: healthSpritesheet 1_2
+  - first:
+      213: 6683982907665855269
+    second: healthSpritesheet 1_3
+  - first:
+      213: 8099507238183435537
+    second: healthSpritesheet 1_4
+  - first:
+      213: 5426249943212107370
+    second: healthSpritesheet 1_5
+  - first:
+      213: -4151780684304041498
+    second: healthSpritesheet 1_6
+  - first:
+      213: -8563378661817657479
+    second: healthSpritesheet 1_7
+  - first:
+      213: -2214585530139089671
+    second: healthSpritesheet 1_8
+  - first:
+      213: 5476825389066864297
+    second: healthSpritesheet 1_9
+  - first:
+      213: 6187265212938996191
+    second: healthSpritesheet 1_10
+  - first:
+      213: 4303529244262574136
+    second: healthSpritesheet 1_11
+  - first:
+      213: 4657057682939726062
+    second: healthSpritesheet 1_12
+  - first:
+      213: -9085204200235184385
+    second: healthSpritesheet 1_13
+  - first:
+      213: -8271206788779770473
+    second: healthSpritesheet 1_14
+  - first:
+      213: -4656483438494545743
+    second: healthSpritesheet 1_15
+  - first:
+      213: 2864688635595064781
+    second: healthSpritesheet 1_16
+  - first:
+      213: -274042258768769294
+    second: healthSpritesheet 1_17
+  - first:
+      213: -110706178913826240
+    second: healthSpritesheet 1_18
+  - first:
+      213: 840894736933412125
+    second: healthSpritesheet 1_19
+  - first:
+      213: 2485006106447564456
+    second: healthSpritesheet 1_20
+  - first:
+      213: -5592170076165071975
+    second: healthSpritesheet 1_21
+  - first:
+      213: -2785366828298348147
+    second: healthSpritesheet 1_22
+  - first:
+      213: -3263482573322260556
+    second: healthSpritesheet 1_23
+  - first:
+      213: -4020517318349819763
+    second: healthSpritesheet 1_24
+  - first:
+      213: -9018292851246569513
+    second: healthSpritesheet 1_25
+  - first:
+      213: -2349661076603337432
+    second: healthSpritesheet 1_26
+  - first:
+      213: 4936862118179552586
+    second: healthSpritesheet 1_27
+  - first:
+      213: 4583644318541938444
+    second: healthSpritesheet 1_28
+  - first:
+      213: 1578265450524590308
+    second: healthSpritesheet 1_29
+  - first:
+      213: -2444404215308558258
+    second: healthSpritesheet 1_30
+  - first:
+      213: -7412826141608564446
+    second: healthSpritesheet 1_31
+  - first:
+      213: 8044028199639709136
+    second: healthSpritesheet 1_32
+  - first:
+      213: 8489525699832952936
+    second: healthSpritesheet 1_33
+  - first:
+      213: 2411745135997245414
+    second: healthSpritesheet 1_34
+  - first:
+      213: 6464504810749885591
+    second: healthSpritesheet 1_35
+  - first:
+      213: 1153648772043819917
+    second: healthSpritesheet 1_36
+  - first:
+      213: -4902805124730896720
+    second: healthSpritesheet 1_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healthSpritesheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3325
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4436776cb091274d0800000000000000
+      internalID: -3138418451958766780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3325
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d61fbe4611cfb930800000000000000
+      internalID: 4161256882268214997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 3325
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9898f19776350d2c0800000000000000
+      internalID: -4408932331316868727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 3576
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523b4309a0742cc50800000000000000
+      internalID: 6683982907665855269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 3325
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11df0ab8bea376070800000000000000
+      internalID: 8099507238183435537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 3576
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6624a7e299ed4b40800000000000000
+      internalID: 5426249943212107370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3325
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9bab6f679e166c0800000000000000
+      internalID: -4151780684304041498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 3576
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977d2315a74c82980800000000000000
+      internalID: -8563378661817657479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3325
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4e65791363441e0800000000000000
+      internalID: -2214585530139089671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 3576
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6cb248ca7910c40800000000000000
+      internalID: 5476825389066864297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 3325
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd94c5cfde49dd550800000000000000
+      internalID: 6187265212938996191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 3576
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838a6cceb0539bb30800000000000000
+      internalID: 4303529244262574136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2525
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8402ad94131a040800000000000000
+      internalID: 4657057682939726062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2776
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe48155aeedae180800000000000000
+      internalID: -9085204200235184385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2525
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d7bf29f35c63d80800000000000000
+      internalID: -8271206788779770473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 2776
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b80b0adbf8d06fb0800000000000000
+      internalID: -4656483438494545743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2525
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc50eb4e22b61c720800000000000000
+      internalID: 2864688635595064781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 2776
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe44a08408623cf0800000000000000
+      internalID: -274042258768769294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 2525
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a866b1151b67ef0800000000000000
+      internalID: -110706178913826240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 2776
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d5968de457bab00800000000000000
+      internalID: 840894736933412125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 2525
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aecb7f33e38c7220800000000000000
+      internalID: 2485006106447564456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 2525
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b9c9eb1fe9462b0800000000000000
+      internalID: -5592170076165071975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 2525
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89de1e80a36859d0800000000000000
+      internalID: -2785366828298348147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 2776
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfe276e3e7c5b2d0800000000000000
+      internalID: -3263482573322260556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1725
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80f372fcc04438c0800000000000000
+      internalID: -4020517318349819763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1976
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e009ce6698d280800000000000000
+      internalID: -9018292851246569513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1725
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8250f7a23b3546fd0800000000000000
+      internalID: -2349661076603337432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1976
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dbc2b90f1438440800000000000000
+      internalID: 4936862118179552586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1725
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ffd67f8306c9f30800000000000000
+      internalID: 4583644318541938444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1976
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e04ac3b01027e510800000000000000
+      internalID: 1578265450524590308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 1725
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40e013315bb31ed0800000000000000
+      internalID: -2444404215308558258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 1976
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22921b726e9502990800000000000000
+      internalID: -7412826141608564446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 1725
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5ffba470122af60800000000000000
+      internalID: 8044028199639709136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 1976
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b71205aad0d570800000000000000
+      internalID: 8489525699832952936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 925
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e754e75c6d387120800000000000000
+      internalID: 2411745135997245414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cfc8dffd886b950800000000000000
+      internalID: 6464504810749885591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 925
+        width: 190
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bcc352275920010800000000000000
+      internalID: 1153648772043819917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthSpritesheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1176
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be337917bcb5fbb0800000000000000
+      internalID: -4902805124730896720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      healthSpritesheet 1_0: -3138418451958766780
+      healthSpritesheet 1_1: 4161256882268214997
+      healthSpritesheet 1_10: 6187265212938996191
+      healthSpritesheet 1_11: 4303529244262574136
+      healthSpritesheet 1_12: 4657057682939726062
+      healthSpritesheet 1_13: -9085204200235184385
+      healthSpritesheet 1_14: -8271206788779770473
+      healthSpritesheet 1_15: -4656483438494545743
+      healthSpritesheet 1_16: 2864688635595064781
+      healthSpritesheet 1_17: -274042258768769294
+      healthSpritesheet 1_18: -110706178913826240
+      healthSpritesheet 1_19: 840894736933412125
+      healthSpritesheet 1_2: -4408932331316868727
+      healthSpritesheet 1_20: 2485006106447564456
+      healthSpritesheet 1_21: -5592170076165071975
+      healthSpritesheet 1_22: -2785366828298348147
+      healthSpritesheet 1_23: -3263482573322260556
+      healthSpritesheet 1_24: -4020517318349819763
+      healthSpritesheet 1_25: -9018292851246569513
+      healthSpritesheet 1_26: -2349661076603337432
+      healthSpritesheet 1_27: 4936862118179552586
+      healthSpritesheet 1_28: 4583644318541938444
+      healthSpritesheet 1_29: 1578265450524590308
+      healthSpritesheet 1_3: 6683982907665855269
+      healthSpritesheet 1_30: -2444404215308558258
+      healthSpritesheet 1_31: -7412826141608564446
+      healthSpritesheet 1_32: 8044028199639709136
+      healthSpritesheet 1_33: 8489525699832952936
+      healthSpritesheet 1_34: 2411745135997245414
+      healthSpritesheet 1_35: 6464504810749885591
+      healthSpritesheet 1_36: 1153648772043819917
+      healthSpritesheet 1_37: -4902805124730896720
+      healthSpritesheet 1_4: 8099507238183435537
+      healthSpritesheet 1_5: 5426249943212107370
+      healthSpritesheet 1_6: -4151780684304041498
+      healthSpritesheet 1_7: -8563378661817657479
+      healthSpritesheet 1_8: -2214585530139089671
+      healthSpritesheet 1_9: 5476825389066864297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
